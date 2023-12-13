@@ -52,4 +52,8 @@ import java.util.*;
         }
    }
 }
+
+//output:-    30
+//            20
+//            10
     
