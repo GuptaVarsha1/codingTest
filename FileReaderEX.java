@@ -23,3 +23,5 @@ public class FileReaderEX {
     } 
 }
 
+//Output:-     Successfully read......
+
